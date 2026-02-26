@@ -1,0 +1,194 @@
+[
+  {
+    "_id": 1,
+    "name": "Electronics Product 1",
+    "category": "Electronics",
+    "description": "Wireless earbuds with active noise cancellation and compact charging case.",
+    "price": 3499,
+    "rating": 4.5
+  },
+  {
+    "_id": 2,
+    "name": "Electronics Product 2",
+    "category": "Electronics",
+    "description": "Bluetooth speaker with deep bass and 12-hour battery backup.",
+    "price": 2199,
+    "rating": 4.3
+  },
+  {
+    "_id": 3,
+    "name": "Electronics Product 3",
+    "category": "Electronics",
+    "description": "Portable 20000mAh power bank with fast charging support.",
+    "price": 1599,
+    "rating": 4.4
+  },
+  {
+    "_id": 4,
+    "name": "Fashion Product 4",
+    "category": "Fashion",
+    "description": "Men's slim fit cotton shirt suitable for office and casual wear.",
+    "price": 899,
+    "rating": 4.1
+  },
+  {
+    "_id": 5,
+    "name": "Fashion Product 5",
+    "category": "Fashion",
+    "description": "Women's ethnic kurta set with soft fabric and elegant print.",
+    "price": 1299,
+    "rating": 4.2
+  },
+  {
+    "_id": 6,
+    "name": "Fashion Product 6",
+    "category": "Fashion",
+    "description": "Running shoes with breathable mesh and cushioned sole.",
+    "price": 1899,
+    "rating": 4.3
+  },
+  {
+    "_id": 7,
+    "name": "Home Product 7",
+    "category": "Home",
+    "description": "Set of airtight kitchen storage containers for daily use.",
+    "price": 799,
+    "rating": 4.0
+  },
+  {
+    "_id": 8,
+    "name": "Home Product 8",
+    "category": "Home",
+    "description": "Microfiber bedsheet set with two pillow covers.",
+    "price": 1199,
+    "rating": 4.1
+  },
+  {
+    "_id": 9,
+    "name": "Home Product 9",
+    "category": "Home",
+    "description": "Table lamp with warm light and adjustable brightness.",
+    "price": 999,
+    "rating": 4.2
+  },
+  {
+    "_id": 10,
+    "name": "Beauty Product 10",
+    "category": "Beauty",
+    "description": "Daily skincare combo with face wash, moisturizer, and serum.",
+    "price": 1499,
+    "rating": 4.4
+  },
+  {
+    "_id": 11,
+    "name": "Beauty Product 11",
+    "category": "Beauty",
+    "description": "Hair care kit with shampoo, conditioner, and hair mask.",
+    "price": 1099,
+    "rating": 4.1
+  },
+  {
+    "_id": 12,
+    "name": "Beauty Product 12",
+    "category": "Beauty",
+    "description": "Long-lasting matte lipstick combo pack of 4 shades.",
+    "price": 699,
+    "rating": 4.0
+  },
+  {
+    "_id": 13,
+    "name": "Books Product 13",
+    "category": "Books",
+    "description": "Self-improvement bestseller for productivity and discipline.",
+    "price": 499,
+    "rating": 4.6
+  },
+  {
+    "_id": 14,
+    "name": "Books Product 14",
+    "category": "Books",
+    "description": "Beginner-friendly Java programming guide with practical examples.",
+    "price": 799,
+    "rating": 4.5
+  },
+  {
+    "_id": 15,
+    "name": "Books Product 15",
+    "category": "Books",
+    "description": "Modern web development handbook for frontend and backend.",
+    "price": 899,
+    "rating": 4.4
+  },
+  {
+    "_id": 16,
+    "name": "Sports Product 16",
+    "category": "Sports",
+    "description": "Yoga mat with anti-slip grip and carry strap.",
+    "price": 999,
+    "rating": 4.2
+  },
+  {
+    "_id": 17,
+    "name": "Sports Product 17",
+    "category": "Sports",
+    "description": "Adjustable dumbbell set for home workouts.",
+    "price": 2799,
+    "rating": 4.3
+  },
+  {
+    "_id": 18,
+    "name": "Sports Product 18",
+    "category": "Sports",
+    "description": "Cricket bat made with premium Kashmir willow.",
+    "price": 2399,
+    "rating": 4.1
+  },
+  {
+    "_id": 19,
+    "name": "Electronics Product 19",
+    "category": "Electronics",
+    "description": "27-inch full HD monitor ideal for work and media.",
+    "price": 11999,
+    "rating": 4.4
+  },
+  {
+    "_id": 20,
+    "name": "Home Product 20",
+    "category": "Home",
+    "description": "Vacuum cleaner with strong suction and washable filter.",
+    "price": 5299,
+    "rating": 4.2
+  },
+  {
+    "_id": 21,
+    "name": "Fashion Product 21",
+    "category": "Fashion",
+    "description": "Classic analog watch with premium metal strap.",
+    "price": 2499,
+    "rating": 4.3
+  },
+  {
+    "_id": 22,
+    "name": "Beauty Product 22",
+    "category": "Beauty",
+    "description": "Portable hair dryer with 3 heat settings.",
+    "price": 1799,
+    "rating": 4.1
+  },
+  {
+    "_id": 23,
+    "name": "Books Product 23",
+    "category": "Books",
+    "description": "Data structures and algorithms interview preparation book.",
+    "price": 949,
+    "rating": 4.6
+  },
+  {
+    "_id": 24,
+    "name": "Sports Product 24",
+    "category": "Sports",
+    "description": "Badminton racket pair with full cover and shuttle set.",
+    "price": 1599,
+    "rating": 4.0
+  }
+]

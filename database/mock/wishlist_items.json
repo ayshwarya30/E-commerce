@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "wish-item-001",
+    "sessionId": "demo-session-001",
+    "productId": 19,
+    "name": "Electronics Product 19",
+    "category": "Electronics",
+    "description": "27-inch full HD monitor ideal for work and media.",
+    "price": 11999,
+    "rating": 4.4
+  },
+  {
+    "_id": "wish-item-002",
+    "sessionId": "demo-session-001",
+    "productId": 24,
+    "name": "Sports Product 24",
+    "category": "Sports",
+    "description": "Badminton racket pair with full cover and shuttle set.",
+    "price": 1599,
+    "rating": 4.0
+  }
+]
