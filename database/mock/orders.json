@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "ORD900001",
+    "sessionId": "demo-session-001",
+    "items": [
+      {
+        "_id": 5,
+        "name": "Fashion Product 5",
+        "price": 1299,
+        "qty": 1
+      },
+      {
+        "_id": 16,
+        "name": "Sports Product 16",
+        "price": 999,
+        "qty": 2
+      }
+    ],
+    "total": 3297,
+    "paymentMethod": "UPI",
+    "status": "Order Confirmed",
+    "createdAt": {
+      "$date": "2026-02-20T10:30:00Z"
+    }
+  },
+  {
+    "_id": "ORD900002",
+    "sessionId": "demo-session-001",
+    "items": [
+      {
+        "_id": 3,
+        "name": "Electronics Product 3",
+        "price": 1599,
+        "qty": 1
+      }
+    ],
+    "total": 1599,
+    "paymentMethod": "Card",
+    "status": "Shipped",
+    "createdAt": {
+      "$date": "2026-02-22T08:15:00Z"
+    }
+  }
+]

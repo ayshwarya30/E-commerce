@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "cart-item-001",
+    "sessionId": "demo-session-001",
+    "productId": 1,
+    "name": "Electronics Product 1",
+    "category": "Electronics",
+    "description": "Wireless earbuds with active noise cancellation and compact charging case.",
+    "price": 3499,
+    "rating": 4.5,
+    "qty": 1
+  },
+  {
+    "_id": "cart-item-002",
+    "sessionId": "demo-session-001",
+    "productId": 14,
+    "name": "Books Product 14",
+    "category": "Books",
+    "description": "Beginner-friendly Java programming guide with practical examples.",
+    "price": 799,
+    "rating": 4.5,
+    "qty": 2
+  }
+]
